@@ -1,0 +1,29 @@
+body {
+    background-color: #FFFFFF;
+    font-family: Monaco;
+   background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9bec1a23-0f79-4beb-ba99-757df5ff5c1e/d4hhpf5-a709206c-013d-4882-92de-384ec615162f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWJlYzFhMjMtMGY3OS00YmViLWJhOTktNzU3ZGY1ZmY1YzFlXC9kNGhocGY1LWE3MDkyMDZjLTAxM2QtNDg4Mi05MmRlLTM4NGVjNjE1MTYyZi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.5UAx-1NKDz9LoBVtZ23bXiVR3p_RHmO32Ez8BerXdIk');
+}
+
+
+
+h1 {
+    font-size: 2000px;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+ol li {
+    background-color: #FF0000;
+    font-size: 12pt;
+}
+
+img {
+  width: 400px;
+  height:360px;
+  border-radius: : 60px;
+  margin: 50px 40px 40px 50px;
+}
+
+
